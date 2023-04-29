@@ -1,4 +1,4 @@
-## Principles:  
+## Two Principles:  
 - Write clear and specific instructions  
 - Give the model time to "think"  
 ## Iterative prompt development  
